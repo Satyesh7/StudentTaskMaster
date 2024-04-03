@@ -1,4 +1,4 @@
-# Student Organizer Website
+# Student Task Organizer Website
 - ( contribute or at least leave a star )
 
 <div align="center">
